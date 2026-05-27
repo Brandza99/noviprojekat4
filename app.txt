@@ -1,2 +1,5 @@
 Danas je dobar dan
+HEAD
 Napravljena nova GRANA pod MOja_grana
+Zaboravio sam da dodam ovde moja_
+Moja_grana
